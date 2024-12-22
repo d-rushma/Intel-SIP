@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8b504d53-ac97-4695-9e90-c01e95c397b9)# INTEL SIMULATED INTERNSHIP PROGRAMME
+# INTEL SIMULATED INTERNSHIP PROGRAMME
 This platform is designed to help me gain a "work-like" experience in a fully online environment. I'll be working on multiple AI projects as if I were an intern within an active company. As part of the simulated aspect of this program, the company I’m working for, ```AI Minds```, is a fictitious organization where I’ve earned an internship. I will be working on projects from AI Minds' customers during this internship. While the team is developing projects with real-world partners, the current projects have been created by the internal development team to provide this experience as quickly as possible. For the experience to feel authentic, all projects have been assigned company aliases.
 # Projects 
 - eAuto
