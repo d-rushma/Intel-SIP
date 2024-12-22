@@ -36,11 +36,33 @@ Used the Beautiful Soup library for extracting the product details.
 ### Models Used
 - Simple Neural Network
 - Multinomial Naive Bayes
-<img width="517" alt="{68D77E6E-5083-452A-925F-A0C216C07F5B}" src="https://github.com/user-attachments/assets/1f147f88-5618-435b-9f52-d161c154f118" />
+<img width="517" alt="{68D77E6E-5083-452A-925F-A0C216C07F5B}" src="https://github.com/user-attachments/assets/1f147f88-5618-435b-9f52-d161c154f118" /><br>
 ## 3) Crypto Guides
 - Customers expect the AI model to provide accurate and reliable predictions for crypto prices.
 - The AI expert should provide clear explanations of the model's features, the data used, and the methodologies employed in predicting crypto prices.
 ### DATASET 
+- DATA COLLECTION: From yahoo finance (contains Bitcoin, Ethereum, Litecoin are combined as single dataset)
+- Time Series: 01 January 2018 – 01 August 2023
+- Features
+  - Time stamp
+  - Open price
+  - Close price
+  - High
+  - Volume
+- PreProcessing Steps
+  - Removed outliers
+  - Dropped the null values
+  - Removed the duplicates
+### Models Used
+- Linear Regression
+- Random Forest
+- XG Boost
+<img width="619" alt="{B31E8507-BAED-475E-8B16-CE9443F0FF36}" src="https://github.com/user-attachments/assets/047fdead-9548-45cf-9be2-583b27d2c885" />
+
+
+
+
+
 
 
 
